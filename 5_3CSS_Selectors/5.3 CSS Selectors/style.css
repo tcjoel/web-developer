@@ -6,7 +6,7 @@ ol {
 
 /* Write your CSS below, don't change the rules above. */
 
-*{
+p{
   color: red;
   text-align: center;
 }
@@ -22,4 +22,3 @@ ol {
 li[value="4"]{
   color: blue;
 }
-
