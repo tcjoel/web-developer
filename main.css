@@ -23,22 +23,23 @@ h3{
     color: green;
   }
 
-#ol {
-    margin-left: -40px;
-    margin-top: -20px;
-    list-style-position: inside;
-  }
+
   
 li{
     color: rgb(86, 117, 58);
     font-size: 15px;
+    margin-top: 10px
   }
 
 /* *{
     color: red;
     text-align: center;
   }
-  
+  #ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
 .note{
     font-size: 20px;
   } */
