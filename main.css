@@ -17,14 +17,7 @@ h3{
     color: grey;
 }
 
-#*{
-    color: red;
-    text-align: center;
-  }
-  
-#.note{
-    font-size: 20px;
-  }
+
   
 #id-selector-demo{
     color: green;
@@ -40,3 +33,12 @@ li{
     color: rgb(86, 117, 58);
     font-size: 15px;
   }
+
+/* *{
+    color: red;
+    text-align: center;
+  }
+  
+.note{
+    font-size: 20px;
+  } */
