@@ -1,5 +1,5 @@
 html{
-  background-color: aqua;
+  background-color: whitesmoke;
 }
 *{
     margin-left: 15px;
@@ -9,9 +9,12 @@ html{
 h1{
     color: purple;
     text-align: center;
+    font-family: sans-serif;
+    font-weight: bolt;
 }
 
 h2{
+    margin-top: -10px;
     color: green;
     text-align: center;
 }
@@ -25,14 +28,27 @@ h3{
 #id-selector-demo{
     color: green;
   }
-
-
   
 li{
     color: rgb(86, 117, 58);
     font-size: 15px;
-    margin-top: 10px
+    margin-top: 10px;
   }
+
+  .job{
+  margin-top: -20px;
+  color: rgb(138, 87, 185);
+  font-size: 15px;
+  font-style: sans-sherif;
+}
+
+.detail-link{
+  margin-top: -15px;
+  font-size: 15px;
+  font-style: sans-sherif;
+
+}
+
 
 /* *{
     color: red;
@@ -45,4 +61,12 @@ li{
   }
 .note{
     font-size: 20px;
-  } */
+  }  
+h3{
+  color: red;
+  font-size: large;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bolt;
+} */
+  
