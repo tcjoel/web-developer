@@ -119,3 +119,6 @@ Thumbs.db
 !.gitignore
 !.nvmrc
 !.phpcs.xml.dist
+
+#google chrome package
+*google-chrome-stable_current_amd64.deb

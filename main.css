@@ -8,9 +8,9 @@ html{
     margin-right: 15px;
   }
   body {
-    width: 210mm;    /* A4 width */ 
-    margin: 0;       /* Optional: Remove default margin */
-    padding: 20mm;   /* Optional: Add padding for internal spacing */
+    width: 80%;    /* A4 width */ 
+    margin: 10%;       /* Optional: Remove default margin */
+    padding: 10% ;   /* Optional: Add padding for internal spacing */
     box-sizing: border-box; /* Ensure padding is included in the width/height */
     
     /* Optional: Add styling to resemble a printed sheet */
