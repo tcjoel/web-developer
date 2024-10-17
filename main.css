@@ -55,6 +55,10 @@ li{
   font-style: sans-sherif;
 }
 
+strong{
+  color: black;
+}
+
 .detail-link{
   margin-top: -15px;
   font-size: 15px;
