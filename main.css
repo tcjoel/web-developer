@@ -14,7 +14,7 @@ html{
     box-sizing: border-box; /* Ensure padding is included in the width/height */
     
     /* Optional: Add styling to resemble a printed sheet */
-    background-color: wheat;
+    background-color: whitesmoke;
     border: 1px solid #ddd;   /* Simulate a page border */
     box-shadow: 0 0 10px rgba(0,0,0,0.1);  /* Light shadow to create a paper-like effect */
   }
