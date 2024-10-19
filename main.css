@@ -19,6 +19,13 @@ html{
     box-shadow: 0 0 10px rgba(0,0,0,0.1);  /* Light shadow to create a paper-like effect */
   }
 
+  div{
+    background-color: wheat;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 15px;
+  }
+
 h1{
     color: purple;
     text-align: center;
