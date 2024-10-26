@@ -19,19 +19,29 @@ footer {
   color: midnightblue;
 }
 
-.title-image {
+.tile-image {
   float: left;
+  height: 200px;
+  margin-right: 50px;
+  
+}
+
+.card {
+  width: 45%;
+  display: block;
+  text-align: justify;
+  margin-bottom: 30px;
 }
 
 .left{
   float: left;
 }
 
-.rigth {
+.right {
   float: right;
 }
 
-@media (max-width: 455px) {
+@media (max-width:655px) {
 
   .logo {
     width: 100px;
@@ -39,6 +49,7 @@ footer {
 
   h1 {
     font-size: 3rem;
+    text-align: center;
   }
 
   .card {
@@ -49,6 +60,7 @@ footer {
   }
 
   .card img{
+    display: inline;
     object-fit: cover;
 
   }
